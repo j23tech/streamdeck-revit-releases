@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.0",
-  "url": "https://github.com/j23networks/streamdeck-revit-releases/releases/download/v2026.10.0/RevitBridgeSetup-2026.10.0.exe",
-  "addinUrl": "https://github.com/j23networks/streamdeck-revit-releases/releases/download/v2026.10.0/addin-autoupdate-payload-2026.10.0.zip"
+  "version": "2026.10.1",
+  "url": "https://github.com/j23tech/streamdeck-revit-releases/releases/download/v2026.10.1/RevitBridgeSetup-2026.10.1.exe",
+  "addinUrl": "https://github.com/j23tech/streamdeck-revit-releases/releases/download/v2026.10.1/addin-autoupdate-payload-2026.10.1.zip"
 }
